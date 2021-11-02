@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my Github!
+
+Linkedin:
+https://www.linkedin.com/in/chrischung15/
 
 <!--
 **ch987/ch987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
