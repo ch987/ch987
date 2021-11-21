@@ -1,7 +1,7 @@
 ### Welcome to my Github!
 
-Linkedin:
-https://www.linkedin.com/in/chrischung15/
+Connect with me on [LinkedIn](https://www.linkedin.com/in/chrischung15/ "Chris's LinkedIn")!
+
 
 <!--
 **ch987/ch987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
