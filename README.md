@@ -1,6 +1,6 @@
 ## Welcome to my Github!
 
-### Connect with me!
+### Let's connect!
 [![LinkedIn Link][linkedInBadge]](https://www.linkedin.com/in/chrischung15/ "Chris's LinkedIn")
 
 ### Tech used in my projects
