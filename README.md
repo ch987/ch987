@@ -3,7 +3,7 @@
 
 
 Find me here!
-![LinkedIn Link][linkedInBadge](https://www.linkedin.com/in/chrischung15/ "Chris's LinkedIn")!
+[![LinkedIn Link][linkedInBadge]](https://www.linkedin.com/in/chrischung15/ "Chris's LinkedIn")!
 
 <!--
 **ch987/ch987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[linkedInBadge]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "LinkedIn Link"
+[linkedInBadge]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn Link"
