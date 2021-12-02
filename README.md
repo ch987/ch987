@@ -1,7 +1,9 @@
-### Welcome to my Github!
+## Welcome to my Github!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/chrischung15/ "Chris's LinkedIn")!
 
+
+Find me here!
+![LinkedIn Link][linkedInBadge](https://www.linkedin.com/in/chrischung15/ "Chris's LinkedIn")!
 
 <!--
 **ch987/ch987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[linkedInBadge]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "LinkedIn Link"
