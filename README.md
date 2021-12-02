@@ -14,7 +14,7 @@
 
 ![Node.js][NodeBadge]
 ![Express.js][ExpressBadge]
-//![NGinx][NGinxBadge]
+<!-- ![NGinx][NGinxBadge] -->
 
 ![PostgreSQL][PostgreSQLBadge]
 ![MySQL][MySQLBadge]
